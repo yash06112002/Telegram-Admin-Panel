@@ -1,0 +1,8 @@
+.user {
+  color: aqua;
+  background-color: yellowgreen;
+}
+
+.blockedUser {
+  text-decoration: line-through;
+}
