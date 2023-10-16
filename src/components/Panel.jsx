@@ -62,11 +62,11 @@ const Panel = () => {
             <div>
                 {
                     users.map(user => (
-                        <>
+                        <div key={user.id}>
                             <p key={user.name} className={user.isAllowed ? 'user' : 'blockedUser'}>{user.name ? user.name : "no name"}</p>
                             <button id={user.id} onClick={togglePermission}>Toggle Permission</button>
                             <button id={user.id} onClick={deleteUser}>Delete</button>
-                        </>
+                        </div>
                     ))
                 }
             </div>

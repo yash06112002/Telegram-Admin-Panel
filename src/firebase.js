@@ -9,7 +9,7 @@ import 'firebase/compat/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyB9z3Co51IoDwxTpao6EQA_FZ5V7gEBtY8",
+    apiKey: import.meta.env.VITE_FIREBASE_KEY,
     authDomain: "weather-bot-92bda.firebaseapp.com",
     projectId: "weather-bot-92bda",
     storageBucket: "weather-bot-92bda.appspot.com",
