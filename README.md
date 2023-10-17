@@ -50,11 +50,5 @@ The admin panel provides access to manage user accounts.
 ## NestAPI repository:
     
     https://github.com/yash06112002/Nestjs-API
-    
-## Repository
-
-You can find the source code for this project on GitHub:
-
-https://github.com/yash06112002/Nestjs-API
-
+ 
 **Disclaimer**: Accessing bot to retrieve weather info may take some time(2-5 minutes) for first time as backend deployment on render.com goes into sleep mode.
