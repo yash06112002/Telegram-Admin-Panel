@@ -47,6 +47,10 @@ This Telegram bot is built using the NestJS framework and Node.js. It allows use
 
 The admin panel provides access to manage user accounts.
 
+## NestAPI repository:
+    
+    https://github.com/yash06112002/Nestjs-API
+    
 ## Repository
 
 You can find the source code for this project on GitHub:
